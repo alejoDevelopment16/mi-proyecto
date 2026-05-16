@@ -1,0 +1,6 @@
+* b6ec504 feat: agregar calcular el perimetro y el diametro de un circulo mediante su rradio
+* 7e51031 feat: Agregar calcular area de un circulo
+| * c5848cb feat: Agrear calcular radio de un circulo
+|/  
+* 725633c docs: agregar fecha al archivo presentación
+* 42dc49b feat: Agregar presentación del estudiante
