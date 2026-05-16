@@ -2,3 +2,4 @@ Nombre: Alejandro Alisajar
 Programa: Ingeniería de Sistemas
 Lenguaje elegido: Java
 Descripción del proyecto: Figuras geométricas las cuales se puedan calcular su área, perímetro, diagonal y radio.
+Fecha: 15/05/2026
